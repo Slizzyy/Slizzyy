@@ -16,6 +16,6 @@ I do a lot of stuff that is something with coding.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slizzyy&show_icons=true&theme=dark&line_height=27" alt="Slizzy's github stats"/>
 </a>
 <a href="https://github.com/Slizzyy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebratic&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slizzyy&theme=dark&hide_langs_below=1" />
 </a>
 
