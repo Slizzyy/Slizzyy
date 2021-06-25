@@ -1,4 +1,4 @@
-## Hello, my name is Slizzy! 👋
+## Hello, i am Slizzy! 👋
 
 I do a lot of stuff that is something with coding.
 
