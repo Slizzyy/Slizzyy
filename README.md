@@ -3,7 +3,7 @@
 I do a lot of stuff that is something with coding.
 
 - ⚡ Currently im working on FeweR, and other exploits.
-- 💬 Fun fact: Im always working on my apps till theres **no** error and it **fully** works.
+- 💬 Fun fact: Im always working on my apps till theres **no** error and it **fully** works.  (feels like im trying to kill myself)
 
 **Languages and Tools:**
 
