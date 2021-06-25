@@ -2,9 +2,9 @@
 
 I do a lot of stuff that is something with coding.
 
-- 🌱 Currently im working on FeweR, and other exploits.
+- 🌱 Currently i'm working on FeweR, and other exploits.
 - 📫 Join my discord if you got any questions: https://discord.gg/DZbaGCTkQA
-- ⚡ Fun fact: Im always working on my apps till theres **no** error and it **fully** works.  (feels like im trying to kill myself)
+- ⚡ Fun fact: I'm always working on my apps till theres **no** error and it **fully** works.  (feels like i'm trying to kill myself)
 
 **Languages and Tools:**
 
