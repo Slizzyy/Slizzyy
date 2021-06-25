@@ -14,3 +14,4 @@ I do a lot of stuff that is something with coding.
 <a href="https://github.com/Slizzyy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slizzyy&show_icons=true&theme=dark&line_height=27" alt="Slizzy's github stats"/>
 </a>
+
