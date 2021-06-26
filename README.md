@@ -15,8 +15,3 @@ I do a lot of stuff that is something with coding.
 <a href="https://github.com/Slizzyy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slizzyy&show_icons=true&theme=dark&line_height=27" alt="Slizzy's github stats"/>
 </a>
-
-<a href="https://github.com/Slizzyy">
- <iframe align="center" src="https://discord.com/widget?id=850461283240116305&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</a>
-
